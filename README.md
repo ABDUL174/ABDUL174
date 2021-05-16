@@ -13,3 +13,10 @@
 <li> 🐍 <i>Trying to learn Python & SQLI</i></li>
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
+
+
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/ABDUL174"><img width=550 src="https://github-profile-trophy.vercel.app/?username=ABDUL174&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/ABDUL174"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=ABDUL174&color=blueviolet&style=flat-square"></a>
