@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ABDUL174&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ABDUL174&show_icons=False&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
 
 
