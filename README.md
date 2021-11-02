@@ -9,6 +9,8 @@
    <img alt="github-activity" src="https://github.com/syedareehaquasar/syedareehaquasar/workflows/update-gh-activity/badge.svg">
   </a> -->
 
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
 
 
 
@@ -62,8 +64,6 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from mary mat
 <p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
 
 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
 
 <!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 
 
