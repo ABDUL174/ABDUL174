@@ -1,8 +1,8 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/syedareehaquasar)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedareehaquasar)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/ABDUL174)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ABDUL174)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=syedareehaquasar&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/syedareehaquasar/syedareehaquasar?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <!-- <a href="https://github.com/syedareehaquasar/syedareehaquasar/actions">
@@ -70,7 +70,6 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from Maharaja
 
 <p align="center"> <img src="https://octodex.github.com/images/surftocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/inspectocat.jpg" height="160px" width="160px">  <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" height="160px" width="160px">  </p>
 
-<p align="center"><img src="https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/EfucOGNUMAAFzGV.jpeg" height="50%" width = "50%"></p>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{syedareehaquasar}/count.svg)
