@@ -31,7 +31,7 @@
 <br />
 
 ### Glad to see you here! 🤩 &nbsp;
-I'm a second student pursuing Bachelors's in Computer Science 🎓 from mary matha hss  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Machine Learning 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a second student pursuing Bachelors's in Computer Science 🎓 from cochin arts and science collage 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Machine Learning 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <br />
 
@@ -41,7 +41,7 @@ I'm a second student pursuing Bachelors's in Computer Science 🎓 from mary mat
 ### Know more about me:
 
 - 🔭 I’m currently exploring AI 🚀.
-- 🌱 I’m currently learning ML and learning about different algorithms 🛠.
+- 🌱 I’m currently learning cloud computing and learning about different algorithms 🛠.
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 - 📫 How to reach me: instagram (preferable)
 - ⚡ Fun fact: <a href = "https://www.theatlantic.com/science/archive/2017/11/how-the-zombie-fungus-takes-over-ants-bodies-to-control-their-minds/545864/#:~:text=And%20its%20body%20belongs%20to,ascend%20a%20nearby%20plant%20stem."> Some fungi create zombies, then control their minds </a>
